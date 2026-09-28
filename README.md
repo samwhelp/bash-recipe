@@ -24,7 +24,9 @@
 
 ## Demo
 
-* [Demo](https://github.com/samwhelp/bash-recipe/tree/main/demo)
+| [Demo](https://github.com/samwhelp/bash-recipe/tree/main/demo) |
+| ---- |
+| [demo-argument-parser](https://github.com/samwhelp/bash-recipe/tree/main/demo/demo-argument-parser) |
 
 
 
